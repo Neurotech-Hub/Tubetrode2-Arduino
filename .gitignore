@@ -1,0 +1,6 @@
+examples/MagLogger
+examples/MagLoggerOnButton
+.vscode
+.DS_Store
+CalibrationData.h
+CalibrationData.cpp
